@@ -1,2 +1,2 @@
-# MyAngular2
-Having some tasks
+# Angular Tutorials
+Developed and designed the Angular project with snippets.
